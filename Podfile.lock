@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - HYLabel (1.0.2)
+  - MJRefresh (3.4.3)
+  - SDWebImage (5.8.2):
+    - SDWebImage/Core (= 5.8.2)
+  - SDWebImage/Core (5.8.2)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AFNetworking
+  - HYLabel
+  - MJRefresh
+  - SDWebImage
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - HYLabel
+    - MJRefresh
+    - SDWebImage
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  HYLabel: a1294c88a57fa0c71651e167a6cf2ffcf1de9c28
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  SDWebImage: f923a89d7344af399ba77b87a523ae747408207a
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 85e9c622979c45047cef843edc9384addcbdc44b
+
+COCOAPODS: 1.9.3
